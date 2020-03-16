@@ -1,0 +1,22 @@
+{
+  "name": "sliding-puzzle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eris": "^0.11.2",
+    "get-pixels": "^3.3.2",
+    "gifsicle": "^5.0.0",
+    "glob": "^7.1.6",
+    "jimp": "^0.9.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "rimraf": "^3.0.2",
+    "write-file-atomically": "^2.0.0"
+  }
+}
